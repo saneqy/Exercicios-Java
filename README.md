@@ -14,7 +14,7 @@ Para rodar esses exercícios localmente, siga os passos abaixo:
    ```
 2. Navegue até a pasta do projeto:
    ```bash
-   cd Exercicios-Java110
+   cd Exercicios-Java
    ```
 3. Abra o Visual Studio Code:
    ```bash
